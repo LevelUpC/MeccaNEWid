@@ -6,7 +6,7 @@ import pygame
 # --- Configuration de la communication série ---
 # Remplacez 'COM3' par le port correspondant à votre Arduino
 try:
-    arduino = serial.Serial('COM3', 9600, timeout=1)
+    arduino = serial.Serial('/dev/ttyACM0', 9600, timeout=1)
     time.sleep(2)  # Temps pour permettre à l'Arduino de se réinitialiser
 except serial.SerialException as e:
     print("Erreur lors de l'ouverture du port série :", e)
