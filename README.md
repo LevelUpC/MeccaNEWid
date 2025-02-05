@@ -9,18 +9,17 @@ Ce projet vise à donner une seconde vie au robot Meccanoid 2.0 en le reprogramm
 Remplacer l'électronique d'origine par une carte Arduino.
 Reprogrammer le robot avec des fonctionnalités améliorées.
 Ajouter des capteurs (ultrasons, infrarouge, caméra…) pour lui donner plus d'interactivité.
-Contrôler le robot via une application mobile ou une télécommande.
+Contrôler le robot via une manette, un jeu VR, ou une interface Python.
 Explorer l'utilisation de l'intelligence artificielle pour des réactions plus intelligentes.
 
 ## 🔧 Matériel Nécessaire
 
-Composant	Référence
-Carte Arduino	Arduino Mega 2560 (ou autre compatible)
-Servomoteurs	Servos d'origine du Meccanoid ou compatibles
-Module Bluetooth	HC-05 ou HC-06 pour communication sans fil
-Capteurs (optionnels)	Ultrason (HC-SR04), Infrarouge, Caméra
-Batterie	Pack Li-Ion ou Alimentation 12V
-Divers	Fils, résistances, plaque de prototypage…
+Composant	              Référence
+Carte Arduino	          Arduino Uno (ou autre compatible)
+Servomoteurs	          Servos d'origine du Meccanoid ou compatibles
+Capteurs (optionnels)	  Ultrason (HC-SR04), Infrarouge, Caméra
+Batterie	              Pack Li-Ion ou Alimentation 12V
+Divers	                Fils, résistances(22k Ω et 1k Ω), plaque de prototypage…
 
 ## 🛠️ Installation et Configuration
 
@@ -32,15 +31,9 @@ Connecter les servomoteurs et les capteurs selon le schéma de câblage.
 
 ### 2️⃣ Programmation
 
-Installer Arduino IDE et les bibliothèques nécessaires.
+Installer Arduino IDE et la bibliothèque Meccanoid (trouvable [ici](https://github.com/alexfrederiksen/MeccanoidForArduino))
 Charger le code de base pour tester les mouvements et capteurs.
 Améliorer le programme avec de nouvelles fonctionnalités interactives.
-
-### 3️⃣ Test et Ajustements
-
-Vérifier le bon fonctionnement des moteurs et des capteurs.
-Ajuster les paramètres pour améliorer la fluidité des mouvements.
-Ajouter des fonctionnalités avancées (contrôle via smartphone, IA…).
 
 ## 🚀 Améliorations Possibles
 
