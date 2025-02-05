@@ -38,6 +38,8 @@ Démonter la carte d'origine du Meccanoid 2.0.
 Installer la carte Arduino à l'intérieur du robot.
 Connecter les servomoteurs et les capteurs selon le schéma de câblage.
 
+![](https://mrsiefensrobotemporium.com/images/blogImages/Meccanoid%20LED%20Circuit.png)
+
 ### 2️⃣ Programmation
 
 Installer Arduino IDE et la bibliothèque Meccanoid (trouvable [ici](https://github.com/alexfrederiksen/MeccanoidForArduino))
