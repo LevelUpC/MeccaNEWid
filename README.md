@@ -21,6 +21,15 @@ Capteurs (optionnels)	  Ultrason (HC-SR04), Infrarouge, Caméra
 Batterie	              Pack Li-Ion ou Alimentation 12V
 Divers	                Fils, résistances(22k Ω et 1k Ω), plaque de prototypage…
 
+| Problème | Solution |
+|----------|----------|
+| Carte de commande| Arduino Uno (ou autre compatible) |
+| Composants | Composants de base du robot |
+| Capteurs (optionnels)| Ultrason (HC-SR04), Infrarouge, Caméra |
+| Batterie | Pack Li-Ion ou Alimentation 12V |
+| Divers | Fils, résistances(22k Ω et 1k Ω), plaque de prototypage… |
+
+
 ## 🛠️ Installation et Configuration
 
 ### 1️⃣ Montage du Matériel
