@@ -1,8 +1,8 @@
-🤖 #Recycler un Robot Meccanoid 2.0 avec Arduino
+🤖 ######**Recycler un Robot Meccanoid 2.0 avec Arduino**
 
 📌 Description
 
-Ce projet vise à donner une seconde vie au robot Meccanoid 2.0 en le reprogrammant avec une carte Arduino. L'objectif est d'améliorer ses fonctionnalités en développant de nouveaux comportements, en optimisant ses mouvements et en lui ajoutant des capteurs et modules supplémentaires.
+  Ce projet vise à donner une seconde vie au robot Meccanoid 2.0 en le reprogrammant avec une carte Arduino. L'objectif est d'améliorer ses fonctionnalités en développant de nouveaux comportements, en optimisant ses mouvements et en lui ajoutant des capteurs et modules supplémentaires.
 
 🎯 Objectifs
 
